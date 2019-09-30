@@ -1,4 +1,4 @@
 <?php
-echo "hello world\r\n";
+echo "hello world!n";
 ?>
 
